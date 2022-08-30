@@ -1,0 +1,6 @@
+rencana awal poin 1.
+-download materi pembelajaran di youtube
+-kelompokkan file yg di download sesuai dengan materi ajar
+-pelajari sesuai rule yang benar
+-check di developer-roadmap
+-selalu kerjakan latihan yang diberikan
