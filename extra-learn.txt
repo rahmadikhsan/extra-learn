@@ -2,5 +2,5 @@ Resolusi pembelajaran saya untuk menjadi seorang web master
 - belajar tutorial pak dhika sesuai dengan rule menjadi seorang web development
 - triknya, tonton, praktekan, buat contoh lainnya
 - setiap yang di pelajari,dokumentasikan dalam bentuk repo VCS dan video vlog
-- diskusi terkait topik yang di bahas
+-ikut forum terkait materi yang dipelajari
 
